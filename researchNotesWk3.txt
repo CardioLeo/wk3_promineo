@@ -1,0 +1,14 @@
+# Author: William Z Chadwick
+# Date Created: 08/17/2022
+# Date Modified: 08/17/2022
+# Description: A place to gather Research notes for Week 3 at Promineo Tech.
+
+Prompts
+
+Select five methods that can be used on an Array and describe the following for each: 1) what the method signature is, 2) what the method does, and 3) why would this method be useful (how could you use it)?
+
+What is the difference between == and ===?
+
+What is a closure and how does it work? Provide an example.
+
+What is your favorite thing you learned this week?
