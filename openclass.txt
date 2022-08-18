@@ -1,0 +1,15 @@
+# Author: William Z Chadwick
+# Date Created: 08/17/2022
+# Date Modified: 08/17/2022
+# Description:
+
+---
+
+Problem set 2, Arrays
+
+---
+
+let alpha=["a", "b", "c"];
+let omega=["x", "y", "z"];
+let joinArrays=[alpha_dog([...alpha, ...omega])];
+console.log(joinArrays);
