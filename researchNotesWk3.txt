@@ -12,3 +12,5 @@ What is the difference between == and ===?
 What is a closure and how does it work? Provide an example.
 
 What is your favorite thing you learned this week?
+
+---

@@ -1,0 +1,186 @@
+# Author: William Z Chadwick
+# Date Created: 08/17/2022
+#
+
+research "big O" efficiency concept.
+
+arrays can have multiple kinds of datatypes, but not the best idea
+
+let twodimensional = [
+
+	["a", "b", "c" ]
+	[1, 2, 3 ]
+	["Z", 99 ]
+	[2312 ]
+];
+
+---
+
+"programmatically" or "dynamically" - without referencing the words
+
+add 8 elements 0-7 to ages:
+
+let ages = []
+ages.length(-1)
+ages.push()
+ages.[chip?]()
+
+leap or reduce functions (haha, instructor says whoa whoa whoa these are way too fancy!)
+
+for loop iterating through array, calculating average age; sum of length of the array, divided by total members.
+counter variable adding up items. create variable outside of the loop - in this case at least.
+
+let itemsInArray = null;
+for ()
+
+***think about the process before you start coding.***
+***pseudoCode***
+in interviews, you have to talk aloud, do live coding, tell about your strategy. Thinking aloud ahead of time, then, is good practice.
+
+Rubber Duck Debugging. Right?
+
+---***---
+
+Coding Steps
+
+1.a-c.
+
+functon challengeOne() {
+
+const ages = [3, 9, 23, 64, 2, 8, 28,93];
+
+console.log(ages[ages.length -1] - ages[0]);
+
+ages.push(45);
+
+console.log(ages[ages.length -1] - ages[0]);
+
+let sum = 0;
+
+for (let i = 0; i < ages.length; i++) {
+	sum+= ages[i];
+}
+
+console.log(Math.round(sum/ages.length));
+
+}
+
+---
+
+non-readable code is not good code.
+
+in this sense, least amount of lines of code are not good coding.
+
+try to do more lines of code, without using built in methods, like .join()
+
+---
+
+Coding steps
+
+2.a-b.
+
+function challengeTwo() {
+
+const names = ["Sam", "Tommy", "Tim", "Sally", "Buck", "Bob"];
+let sum = 0;
+
+for (let i = 0; i < names.length; i++) {
+	sum += names[i].length;
+}
+
+console.log(sum / names.length);
+
+let next = "";
+for (let i = 0; i < names.length; i++) {
+	next += names [i] + " ";
+}
+
+console.log(next.trim()); //trim takes away leading or ending spaces, so that's nice
+
+}
+
+/*
+Seth McGregor's suggestion:
+let con = names[0]; for (i = 1; i < names.length; i++) { con = con.concat(" ", names[i]); }
+console.log(con);
+*/
+
+---
+
+Coding steps
+
+3.
+
+function add(number1, number2) {
+	let value = number1 + number2;
+	return value;
+}
+
+let result - add(1, 2);
+
+console.log(add(1, 2));
+console.log(result);
+
+//bad practice to change outside variable values inside a function;
+//use a descriptive, semantic name;
+//optional, return value must be "caputred" or assigned to a variable; see above "let result";
+//functions can call other functions;
+//console.log for debugging;
+//you can use console.log instead of a return value; if all you need a return is for displaying a value, then you can use a console.log;
+
+function add(number1, number2) {
+	console.log(number1);
+	console.log(number2);
+        let value = number1 + number2;
+        return value;
+console.log("Hello!");
+}
+
+//last console.log does not run, because it is after the return value.
+
+#
+
+let value = number1 + number2;
+	if (number 1 === 5) {
+		return value;
+	}
+return value;
+}
+console.log(add(1, 2));
+
+#
+
+//function declaration:
+
+function add(number1, number2) {
+let value = number1 + number2;
+	if (number1 === 1) {
+		return "frank";
+	}
+	console.log("stepanski");
+	return value;
+}
+
+//functions may or may not have return statements; can have multiple ones; not all function statements run;
+
+//function expression;
+//arrow function, shorthand for a function expression;
+
+---***---
+
+Intermediate Array Functions
+
+Array Object
+-map []
+-reduce [loops through array, creates one value]
+-filter [creates lesser amount]
+-forEach []
+-splice [mutator method, changes contents of array]
+
+---***---
+
+Expressions
+
+//not using map just yet, or reduce -- next two weeks.
+
+and that should be all of the class notes. definitely should help with the code assignment.
