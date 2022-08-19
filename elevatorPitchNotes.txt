@@ -11,10 +11,22 @@ Notes:
 
 2-Tell a story
 
-3-Talk about the past: english lit, wrote book of poems, self-taught German, Graphic Design, worked ropes course for people with special needs, caregiver for the elderly; a strong believer in careful thinking and methodically carrying out ethical concerns.
+A:
 
-4-Talk about the Present: I love beauty and ethics. I am learning bash scripting, Linux, C++, web development. After last year being one of the worst years of my life, this year has slowly been turning into one of the best years of my life. I have taken so many steps to improve life for myself and my family I can't even list them all here.
+Hi, I'm William Z Chadwick.
 
-5-Talk about future, long term goals: I 
+What should I say about myself?
+
+Well, for a long time, I didn't know what I wanted to do, but I've been interested in a lot of different things. So in a sense what I have to say is the story of figuring out how to tie together these different things.
+
+Past
+Present
+Future
+
+3-Talk about the past: In college, I studied English literature, worked as a tutor in philosophy, literature and Graphic Design, and I actually wrote a book of poems which I hope to publish someday. During two of my college summers I worked on a ropes course for people with special needs and the third summer I was a Team Leader at another summer camp. Since college, I taught myself German and worked primarily as a caregiver for the elderly, but I didn't know what I wanted to do; I love beauty and ethics and having deep conversations with others, but I felt like no one field or job would touch on all my different needs.
+
+4-Talk about the Present: After last year was one of the hardest years of my life, I have been doing a lot to make this year one of the best years for me and my family. I have a beautiful wife and three smart, wonderful kids. After I realized I could learn German, I decided to start learning more and more coding. I've made new friends and really broken new ground in my personal life and my mental health. I started a blog which is important to me. I have taken so many steps to improve life for myself and my family I can't even list them all here.
+
+5-Talk about future, long term goals: I don't have an exact plan for the future, but knowing me it is going to involve a number of things tied together; I'll sum it up like this: My goal in life is to use my love of language, careful thinking, ethics, beauty and people to think through real problems of technology with those around me.
 
 6-What brought you to coding/tech/bootcamp -- accomplishments?
