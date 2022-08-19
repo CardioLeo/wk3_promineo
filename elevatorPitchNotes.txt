@@ -30,3 +30,27 @@ Future
 5-Talk about future, long term goals: I don't have an exact plan for the future, but knowing me it is going to involve a number of things tied together; I'll sum it up like this: My goal in life is to use my love of language, careful thinking, ethics, beauty and people to think through real problems of technology with those around me.
 
 6-What brought you to coding/tech/bootcamp -- accomplishments?
+
+---
+
+A.
+
+Hi, I'm William Z Chadwick.
+
+What should I say about myself?
+
+Maybe the first thing I should say is that I care, and I care a lot about many different people and things.
+
+After that, I should add that for a long time I didn't know what I wanted to do. In a sense the task that I've had is to learn how to tie together these different things I care about.
+
+B.
+
+So, to begin with, here are some things about me that will tell you what kind of person I am: in college, I studied English literature while tutoring students in philosophy, literature and Graphic Design, and I actually wrote a book of poems which I hope to publish someday. During two of my college summers I worked on what was, at the time, the only wheel-chair accessible ropes course in America at Camp Barnabas, a summer camp for people with special needs. The third summer I was a Team Leader at another summer camp where I designed procedures for a zipline and rockwall and trained my team on how to safely facillitate these. Since college, I taught myself German and worked primarily as a caregiver for the elderly, but I still didn't know what I wanted to do long-term; I love beauty and ethics and having deep conversations with others, but I felt like no single field or job would touch on all my different real needs. I didn't know how to complete my task of tying everything together.
+
+C.
+
+2021 was one of the hardest years of my life, for a number of reasons. After 2021, I have been doing a lot to step up and make 2022 one of the best years for me and my family. I mean, I have a beautiful wife and three smart, wonderful kids, and I want to give them the best that I can. I've really broken new ground in my personal life and my mental health. After I realized I could learn German, I decided to start learning more and more computer coding. The more I learned about coding, the more I realized that I could tie together the different things I care about the most through this experience of coding. I started a blog where I write about intersections of tech, ethics, spirituality and language. And I want to start pulling in design work as well. I have taken so many steps to improve life for myself and my family from August to August that I can't even list them all right now. But I feel like things are really coming together for me.
+
+D.
+
+List of accomplishments? Coding certs/courses?
