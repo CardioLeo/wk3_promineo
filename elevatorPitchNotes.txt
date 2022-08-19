@@ -1,0 +1,20 @@
+# Author: William Z Chadwick
+# Date Created: 08/18/2022
+# Date modified: 08/18/2022
+# Description: A place to keep my notes in process of writing and practicing an elevator pitch for Promineo Tech bootcamp.
+
+Notes:
+
+-Phone Recording, 2-5 min long
+
+1-Tie back to job you're applying for
+
+2-Tell a story
+
+3-Talk about the past: english lit, wrote book of poems, self-taught German, Graphic Design, worked ropes course for people with special needs, caregiver for the elderly; a strong believer in careful thinking and methodically carrying out ethical concerns.
+
+4-Talk about the Present: I love beauty and ethics. I am learning bash scripting, Linux, C++, web development. After last year being one of the worst years of my life, this year has slowly been turning into one of the best years of my life. I have taken so many steps to improve life for myself and my family I can't even list them all here.
+
+5-Talk about future, long term goals: I 
+
+6-What brought you to coding/tech/bootcamp -- accomplishments?
