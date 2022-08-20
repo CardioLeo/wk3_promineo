@@ -14,3 +14,9 @@ What is a closure and how does it work? Provide an example.
 What is your favorite thing you learned this week?
 
 ---
+
+The difference between == and === is that the first one (==) checks the value of two variables (for instance, a == b), whereas the second one (===) checks both the value of two variables, but also checks their data types. == returns "true" if the values of the two variables are equal; false if they are not equal. Whereas === returns "true" only if both variables are equal in both value and data type. == will perform conversions to see if values are equal; whereas === does not perform conversion if the two values' types are not similar.
+
+I researched this a couple places, including remembering some of it from previous coding resources I've gone over; here is one: https://www.guru99.com/difference-equality-strict-operator-javascript.html#:~:text=%3D%20in%20JavaScript%20is%20used%20for,datatype%20and%20compares%20two%20values.
+
+I think that my favorite thing I learned this week was honestly about my own elevator pitch. Recently I've been processing how far I've come in the last year, since last August, and frankly I am proud of myself. I updated my personal portfolio page (which is still very rough) and I have just done so much, both in learning to code and in my personal life, since last August. Both the pitch and the updates really helped this to sink in.
