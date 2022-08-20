@@ -54,3 +54,7 @@ Coming closer to the present, 2021 was one of the hardest years of my life, for 
 D.
 
 To illustrate the sort of things I've been doing so far regarding learning how to code; first let me say that I started Promineo Tech's Front End Bootcamp through Arapahoe Community College in July 2022, and am now in Week 4 out of 28 weeks. Before that, I had gathered over 20 different (mostly) free resources for learning how to code, and had spent a good amount of time working on most of them. On Udemy, for instance, I have completed 100% of Udemy's Git and Github Bootcamp course, 70% of Udemy's Bash Mastery course, 33% of their Beginning C++ Programming course, and have begun a CompTIA A+ course and two React courses. I have completed all the free courses for the Mimo app, which include a short SQL course and two lengthy courses on Web Developement and Python3. I have completed both of the Grasshopper app's Fundamentals courses and most of their Intro to Interviewing course. I also have made good progress through various courses and certificates on apps like Enki Coding, SoloLearn, Programming Hub, Programming Hero, Zenva, The Great Courses: How to Program, Khan Academy, and Harvard's CS50 course. Lastly, I am about 42% of the way through The Odin Project's very thorough Foundations Course.
+
+E.
+
+If you're intrigued, then check out my LinkedIn or GitHub pages, or email me at CardioLeo@gmail.com, that's C A R D I O L E O @ gmail . com --- Thank you so much for your time
