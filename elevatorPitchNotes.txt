@@ -33,7 +33,11 @@ Future
 
 ---
 
-The list of classes and resources at the end really is too long for an elevator pitch. I need to simplify.
+The list of classes and resources at the end really is too long for an elevator pitch. I need to simplify. -- Done /
+
+Listen to recording and take notes: 
+
+
 
 ---
 
@@ -57,7 +61,7 @@ Coming closer to the present, 2021 was one of the hardest years of my life, for 
 
 D.
 
-To illustrate the sort of things I've been doing so far regarding learning how to code; first let me say that I started Promineo Tech's Front End Bootcamp through Arapahoe Community College in July 2022, and am now in Week 4 out of 28 weeks. Before that, I had gathered over 20 different (mostly) free resources for learning how to code, and had spent a good amount of time working on most of them. On Udemy, for instance, I have completed 100% of their Git and Github Bootcamp course, 70% of their Bash Mastery course, 33% of their Beginning C++ Programming course, and have others lined up. I have also completed or made good progress through various courses and certificates on apps like Mimo, Grasshopper, Enki Coding, SoloLearn, Programming Hub, Programming Hero, Zenva, The Great Courses: How to Program, Khan Academy, and Harvard's CS50 course. Lastly, I am about 42% of the way through The Odin Project's very thorough Foundations Course.
+To illustrate the sort of things I've been doing so far regarding learning how to code; first let me say that I started Promineo Tech's Front End Bootcamp through Arapahoe Community College in July 2022, and am now in Week 4 out of 18 weeks. Before that, I had gathered over 20 different (mostly) free resources for learning how to code, and had spent a good amount of time working on most of them. On Udemy, for instance, I have completed 100% of their Git and Github Bootcamp course, 70% of their Bash Mastery course, 33% of their Beginning C++ Programming course, and have others lined up. I have also completed or made good progress through various courses and certificates on apps like Mimo, Grasshopper, Enki Coding, SoloLearn, Programming Hub, Programming Hero, Zenva, The Great Courses: How to Program, Khan Academy, and Harvard's CS50 course. Lastly, I am about 42% of the way through The Odin Project's very thorough Foundations Course.
 
 E.
 
