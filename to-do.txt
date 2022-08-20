@@ -1,14 +1,14 @@
 # Author: William Z Chadwick
 # Date Created: 08/17/2022
-# Date Modified: 08/17/2022
+# Date Modified: 08/19/2022
 # Description: PromineoTech FE Week3 to do list
 
 1. Videos
-2. Lab
+2. Lab X
 3. Mentors? X
 4. Sample Coding Assignment Submission (look over closely)
 5. Research
-6. Career Services Assignment
+6. Career Services Assignment / (lots of work)
 7. Week 3 LinkedIn Posts /
 8. Class attendance /
 9. Open Class Functions
@@ -27,9 +27,7 @@ practice? /
 recording / / / / / (5 tries; 5th is closest to perfect, although it is limited)
 upload recording to DropBox/ for link? (should work) /
 [ https://www.dropbox.com/s/pd36qczlbi3blft/WillC-ElevatorPitch.mp3?dl=0 ]
-
-
-upload doc with link to recording () last step for career services
+upload doc with link to recording () last step for career services /
 
 ---
 
