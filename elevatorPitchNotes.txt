@@ -33,6 +33,10 @@ Future
 
 ---
 
+The list of classes and resources at the end really is too long for an elevator pitch. I need to simplify.
+
+---
+
 A.
 
 Hi, I'm Will Z Chadwick.
