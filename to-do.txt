@@ -7,7 +7,7 @@
 2. Lab X
 3. Mentors? X
 4. Sample Coding Assignment Submission (look over closely)
-5. Research
+5. Research /
 6. Career Services Assignment / (lots of work)
 7. Week 3 LinkedIn Posts /
 8. Class attendance /
@@ -18,9 +18,7 @@
 
 ---
 
-priotiries for Friday:
-
-Career services:
+Career services: /
 made lots of notes for elevator pitch /
 drafted a good amount /
 practice? /
@@ -29,11 +27,20 @@ upload recording to DropBox/ for link? (should work) /
 [ https://www.dropbox.com/s/pd36qczlbi3blft/WillC-ElevatorPitch.mp3?dl=0 ]
 upload doc with link to recording () last step for career services /
 
+research completed and uploaded. /
+
+
 ---
 
 Coding Assignment
--look at in-class notes for solutions
-
-Research
+- detailed list from sample assignment
+- look at in-class notes for solutions
+- complete tasks
+- turn in assignment
 
 OpenClass Problem Sets
+- arrays
+- functions
+
+videos
+survey
