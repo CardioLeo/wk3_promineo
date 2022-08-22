@@ -34,3 +34,132 @@ function joinArrays(ar1, ar2) {
 // for testing purposes
 
 console.log(joinArrays(input, staticArray));
+
+---
+
+Problem 3
+
+Given the attendanceList array, replace the first element in the array with "Steven".
+Remember, arrays are 0 base index, meaning the first element is in position 0. For example, array[0] accesses the first element.
+
+attendanceList[0]="Steven";
+
+var fs = require("fs");
+var attendanceList = [];
+
+// This line will add the test cases to the array
+attendanceList = fs.readFileSync(process.stdin.fd, "utf-8").trim().split("\n");
+
+//write your code here
+attendanceList[0]="Steven";
+
+// this will print the result
+console.log(attendanceList);
+
+---
+
+Problem 4
+
+ugh, didn't realize I was using .splice() wrong
+
+let studentList = ["Allen", "Jessica", "Eddie", "Sarah"];
+//write your code here
+
+studentList.splice(2, 1);
+
+
+// do not change
+// for testing purposes
+function checkArray(array){
+    return array.sort()
+}
+
+console.log(checkArray(studentList));
+
+array problem set "mastered";
+
+---
+
+JavaScript Week 3 - Functions;
+
+---
+
+Problem 1
+
+var fs = require("fs");
+var input = fs.readFileSync(process.stdin.fd, "utf-8").trim().split("\n");
+var a = parseInt(input[0]);
+var b = parseInt(input[1]);
+
+//write your code below
+function sumOfTwo(a, b) {
+    sum = a+b;
+    return sum;
+}
+
+
+
+//do not change. Used for Testing purposes
+console.log(sumOfTwo(a, b))
+
+if you only pass one when you call the function, the output will be NaN
+
+---
+
+Problem 2
+
+Write a function called loopUntilX that takes one parameter. Within the function, write a loop that loops as many times as the passed in value, starting at 0. Within the loop, print the number of iterations to the console. Once the loop is done, return true.
+
+This took forever:
+
+let i = 0;
+
+function loopUntilX(y) {
+//    for (let i = 0; i = y; i++) {
+while (i <= y-1) {
+        console.log(i);
+        i=i+1;
+    }
+return true;
+}
+
+instructor's code:
+
+var fs = require("fs");
+var input = fs.readFileSync(process.stdin.fd, "utf-8").trim().split("\n");
+var x = input[0];
+
+
+//write your code below
+function loopUntilX(x){
+    for(let i = 0; i < x; i++){
+        console.log(i);
+    }
+    return true;
+}
+
+//do not change below, used for testing purposes
+console.log(loopUntilX(x));
+
+
+So I guess my problem was that my condition for ending the loop was i = x instead of i < x.
+
+
+---
+
+Problem 3
+
+Create a function named returnSum that accepts 3 integer variables named num1, num2, and num3. Return the sum of the three variables.
+
+function returnSum(num1, num2, num3) {
+	let sum = num1 + num2 + num3;
+	return sum;
+}
+
+can also just do, return num1+num2+num3;
+
+Mastery Achieved. Wow. Cool.
+
+---
+
+JavaScript Week 3 completed.
