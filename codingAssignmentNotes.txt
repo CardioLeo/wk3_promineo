@@ -1,0 +1,14 @@
+# Author: William Z Chadwick
+# Date Created: 08/21/22
+# Date Modified: 08/21/22
+# Description: A place to keep notes as I prep to complete the coding assignment steps.
+
+1.
+
+ages = [3, 9, 23, 64, 2, 8, 28, 93];
+
+ages.shift();
+
+function challengeOne() {
+
+const ageshttps://github.com/CardioLeo/wk3_promineo
