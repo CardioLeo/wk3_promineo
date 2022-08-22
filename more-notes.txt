@@ -1,0 +1,38 @@
+let namesLength = [];
+let length = 0;
+
+function challengeFive() {
+const namesArray = ["Kellog", "Samantha", "Katlyne"];
+        for (i = 0; i < namesArray.length; i++) {
+                console.log(i);
+                length = length + namesArray[i].length;
+                console.log(length);
+                    for (i = 0; i < 3; i++) {
+                    namesLength = i = length;
+                    console.log(namesLength[i]);
+        }
+    return 0;
+}
+
+challengeFive();
+
+
+let namesLength = [];
+let length = 0;
+//const namesArray = ["Kellog", "Samantha", "Katlyne"];
+function challengeFive() {
+const namesArray = ["Kellog", "Samantha", "Katlyne"];
+        for (i = 0; i < namesArray.length -1; i++) {
+                length = length + namesArray[i].length -1;
+                //i++;
+                //console.log(length);
+                    //for (i = 0; i < 3; i++) {
+                    //namesLength[i] = length;
+                    //console.log(namesLength[i]);
+                    //}
+        }
+    console.log(namesArray);
+    console.log(namesLength);
+    return 0;
+}
+challengeFive();
