@@ -218,3 +218,22 @@ lastName = "Scarlet";
 challengeEight(firstName, lastName);
 
 
+//---
+//***
+//---
+
+console.log("Start process for challengeNine...\n...\n...\n... \n \n \n \n\n");
+
+//9.
+//
+
+
+function challengeNine(arrNum) {
+	for (i = 0; i < arrNum.length -1; i++) {
+		let sum = sum + arrNum[i];
+	}
+	let avg = sum / arrNum.
+	
+
+return 0;
+}
