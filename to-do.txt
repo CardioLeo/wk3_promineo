@@ -11,8 +11,8 @@
 6. Career Services Assignment / (lots of work)
 7. Week 3 LinkedIn Posts /
 8. Class attendance /
-9. Open Class Functions
-10. '' '' '' Arrays
+9. Open Class Functions /
+10. '' '' '' Arrays /
 11. Week 3 Course Feedback Survey
 12. Coding Assignment
 
@@ -38,9 +38,8 @@ Coding Assignment
 - complete tasks
 - turn in assignment
 
-OpenClass Problem Sets
-- arrays
-- functions
+OpenClass Problem Sets /
 
 videos
+
 survey
