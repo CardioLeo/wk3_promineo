@@ -3,10 +3,10 @@
 # Date Modified: 08/19/2022
 # Description: PromineoTech FE Week3 to do list
 
-1. Videos
+1. Videos ?
 2. Lab X
 3. Mentors? X
-4. Sample Coding Assignment Submission (look over closely)
+4. Sample Coding Assignment Submission (look over closely) /
 5. Research /
 6. Career Services Assignment / (lots of work)
 7. Week 3 LinkedIn Posts /
@@ -14,7 +14,7 @@
 9. Open Class Functions /
 10. '' '' '' Arrays /
 11. Week 3 Course Feedback Survey
-12. Coding Assignment
+12. Coding Assignment /
 
 ---
 
@@ -32,14 +32,14 @@ research completed and uploaded. /
 
 ---
 
-Coding Assignment
-- detailed list from sample assignment
-- look at in-class notes for solutions
-- complete tasks
-- turn in assignment
+Coding Assignment /
+- detailed list from sample assignment /
+- look at in-class notes for solutions /
+- complete tasks /
+- turn in assignment /
 
 OpenClass Problem Sets /
 
-videos
+videos ?
 
-survey
+survey ?
