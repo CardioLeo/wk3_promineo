@@ -229,11 +229,131 @@ console.log("Start process for challengeNine...\n...\n...\n... \n \n \n \n\n");
 
 
 function challengeNine(arrNum) {
-	for (i = 0; i < arrNum.length -1; i++) {
-		let sum = sum + arrNum[i];
-	}
-	let avg = sum / arrNum.
-	
-
+    let sum = 0;
+    let i = 0;
+    while (i < arrNum.length) {
+            sum = sum + arrNum[i];
+            i++;
+            if (sum > 100) {
+    console.log("Wait! ... Now it's " + true + " - "+ sum + " is greater than 100!! Congratulations!");
+    } else {
+    console.log("Unfortunately, " + sum + " is the sum so far, and that is smaller than 100!!");
+}}
 return 0;
 }
+const arrNumbersSafeForMe = [23, 25, 46, 231];
+challengeNine(arrNumbersSafeForMe);
+
+
+//---
+//***
+//---
+
+console.log("Start process for challengeTen...\n...\n...\n... \n \n \n \n\n");
+
+//10.
+//
+
+
+function challengeTen(arrNum) {
+    let sum = 0;
+    let i = 0;
+    while (i < arrNum.length) {
+            sum = sum + arrNum[i];
+            i++;
+    }
+    console.log(sum / arrNum.length);
+    return 0;
+}
+const arrGNumbSaf = [15, 25, 5, 15];
+challengeTen(arrGNumbSaf);
+
+
+//---
+//***
+//---
+
+console.log("Start process for challengeEleven...\n...\n...\n... \n \n \n \n\n");
+
+//11.
+//
+
+
+
+
+function challengeEleven(arrNum1, arrNum2) {
+    let sum1 = 0;
+    let i1 = 0;
+    while (i1 < arrNum1.length) {
+            sum1 = sum1 + arrNum1[i1];
+            i1++;
+    }
+
+    let num1 = sum1 / arrNum1.length;
+
+    let sum2 = 0;
+    let i2 = 0;
+    while (i2 < arrNum2.length) {
+            sum2 = sum2 + arrNum2[i2];
+            i2++;
+    }
+    let num2 = sum2 / arrNum2.length;
+
+    console.log(num1 > num2);
+    console.log(num1 + " is greater than " + num2);
+    return 0
+}
+const arrGNumbSaf1 = [8, 2, 456, 231, 56];
+const arrGNumbSaf2 = [2, 5, 7, 9, 11, 27];
+challengeEleven(arrGNumbSaf1, arrGNumbSaf2);
+
+
+//---
+//***
+//---
+
+console.log("Start process for challengeTwelve...\n...\n...\n... \n \n \n \n\n");
+
+//12.
+//
+
+
+let isHotOutside = true;
+let moneyInPocket = 25;
+
+function willBuyDrink(bool, num) {
+       if (bool === true && num > 10.50) {
+           console.log(true);
+       }
+    return 0;
+}
+
+willBuyDrink(isHotOutside, moneyInPocket);
+
+
+//---
+//***
+//---
+
+console.log("Start process for challengeThirteen...\n...\n...\n... \n \n \n \n\n");
+
+//13.
+//
+
+//Create a function of your own that solves a problem. In comments, write what the function does and why you created it.
+
+
+let isOnMyLinux = true;
+let isInTerminal = true;
+let havePreference = true;
+
+function useBash(bool1, bool2, bool3) {
+       if (bool1 === true && bool2 === true && bool3 === true) {
+           console.log("You should definitely use bash for this assignment since it's on linux and in the terminal!");
+       } else {
+		console.log("I suppose you could use JavaScript.....");
+       }
+    return 0;
+}
+
+useBash(isOnMyLinux, isInTerminal, havePreference);
