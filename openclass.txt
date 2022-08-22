@@ -13,3 +13,24 @@ let alpha=["a", "b", "c"];
 let omega=["x", "y", "z"];
 let joinArrays=[alpha_dog([...alpha, ...omega])];
 console.log(joinArrays);
+
+---
+
+Back to Problem set 2, Arrays:
+
+var fs = require("fs");
+var input = fs.readFileSync(process.stdin.fd, "utf-8").trim().split("\n");
+var staticArray = ["Henry", "Peter", "Julie"];
+
+//write your code here
+function joinArrays(ar1, ar2) {
+    var ar3 = ar1.concat(ar2);
+    return ar3;
+}
+
+
+
+// do not change
+// for testing purposes
+
+console.log(joinArrays(input, staticArray));
