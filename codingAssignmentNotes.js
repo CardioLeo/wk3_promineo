@@ -1,7 +1,7 @@
 // Author: William Z Chadwick
 // Date Created: 08/21/22
 // Date Modified: 08/21/22
-// Description: A place to keep notes as I prep to complete the coding assignment steps.
+// Description: JavaScript Application for Week 3 Coding Assignment
 
 
 //---
